@@ -19,13 +19,13 @@
 
 ## 🛠 Технологии
 
-- [tech-stack.md](https://github.com/your-chrono/docs/tech-stack.md).
+- [tech-stack.md](https://github.com/your-chrono/docs/blob/main/docs/tech-stack.md).
 
 ---
 
 ## 🚀 Дорожная карта
 
-- [roadmap.md](https://github.com/your-chrono/docs/roadmap.md).
+- [roadmap.md](https://github.com/your-chrono/docs/blob/main/docs/roadmap.md).
 
 ---
 
